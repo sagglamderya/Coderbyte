@@ -8,4 +8,3 @@ def Palindrome(strParam):
     return "true"
   else:
     return "false"
-     

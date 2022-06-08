@@ -21,5 +21,3 @@ def RomanNumeralReduction(strParam):
   y=(((((total%1000)%500)%100)%50)%10)//5
   s=(((((total%1000)%500)%100)%50)%10)%5
   return i*"M"+j*"D"+k*"C"+l*"L"+t*"X"+y*"V"+s*"I"
- 
- 
